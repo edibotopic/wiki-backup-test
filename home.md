@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the best place to collaborate on everything Ubuntu.
 published: true
-date: 2025-03-25T15:08:12.875Z
+date: 2025-03-25T16:57:42.894Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -37,7 +37,7 @@ dateCreated: 2025-02-11T09:53:09.747Z
 
 # Distribution
 
-The Ubuntu distribution is one of the most popular Linux distributions.
+Discover why Ubuntu is one of the most popular Linux distributions.
 
 - [Ubuntu *An overview of Ubuntu and the history of its development.*](/ubuntu/overview)
 - [Applications *Find packages, apps and toolchains available on Ubuntu.*](/ubuntu/software)
