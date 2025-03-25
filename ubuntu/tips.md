@@ -2,7 +2,7 @@
 title: Tips
 description: Quick tips for getting the best out of Ubuntu
 published: true
-date: 2025-03-04T12:25:06.292Z
+date: 2025-03-25T17:06:47.823Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T12:25:04.784Z
@@ -10,13 +10,21 @@ dateCreated: 2025-03-04T12:25:04.784Z
 
 # Tips
 
-> How do I update packages on Ubuntu
+## Terminal
+
+> How do I confirm what Ubuntu version I am using?
+
+```bash
+lsb_release -a
+```
+
+> How do I update available packages from the terminal?
 
 ```bash
 sudo apt update
 ```
 
-> How do I open the current directory in the file explorer
+> How do I open the current directory in the file explorer from the terminal?
 
 ```bash
 nautilus .
