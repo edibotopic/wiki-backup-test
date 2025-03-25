@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="900" width="900" version="1.1" viewBox="0 0 900 900" data-name="Layer 1" id="Layer_1">
+  
+  <defs id="defs1">
+    <style id="style1">.cls-1{fill:#e9500e;}.cls-2{fill:#fff;}</style>
+    <clipPath id="clipPath4" clipPathUnits="userSpaceOnUse">
+      <rect y="615.38464" x="71.46402" height="900" width="900" id="rect5" style="fill:none;stroke:#ffff00;stroke-width:4.26331;stroke-linecap:square"></rect>
+    </clipPath>
+  </defs>
+  <g transform="translate(-71.46402,-615.38464)" clip-path="url(#clipPath4)" id="g4">
+    <rect y="0" x="0" id="rect1" height="1600" width="1038.9049" class="cls-1"></rect>
+    <circle id="circle1" r="109.02696" cy="1056.0741" cx="226.58835" class="cls-2"></circle>
+    <circle id="circle2" r="109.02696" cy="817.00696" cx="680.64508" class="cls-2"></circle>
+    <path id="path2" d="m 472.48179,1336.6657 a 265.525,265.525 0 0 1 -181.07121,-138.0982 156.94811,156.94811 0 0 1 -93.21911,11.4584 354.9352,354.9352 0 0 0 255.53721,214.1645 359.21054,359.21054 0 0 0 77.41948,7.967 156.00315,156.00315 0 0 1 -31.92236,-91.1547 c -8.97973,-0.9975 -17.94861,-2.4547 -26.74401,-4.337 z" class="cls-2"></path>
+    <circle id="circle3" r="109.02696" cy="1337.2672" cx="656.08185" class="cls-2"></circle>
+    <path id="path3" d="m 807.7978,1297.2209 a 356.70056,356.70056 0 0 0 17.87488,-418.5189 157.14405,157.14405 0 0 1 -61.30976,71.80309 267.293,267.293 0 0 1 -8.73685,265.48841 156.34662,156.34662 0 0 1 52.17173,81.2274 z" class="cls-2"></path>
+    <path id="path4" d="m 218.17628,899.71905 q 4.1505,-0.2277 8.30533,-0.22553 A 157.3464,157.3464 0 0 1 309.164,923.039 265.90648,265.90648 0 0 1 523.2722,808.52964 158.08773,158.08773 0 0 1 556.3482,720.1094 C 419.24532,709.25176 286.02405,780.001 218.17628,899.71905 Z" class="cls-2"></path>
+  </g>
+</svg>
