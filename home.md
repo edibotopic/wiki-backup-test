@@ -46,7 +46,7 @@ The Ubuntu distribution is one of the most popular Linux distributions.
 
 # Community
 
-Learn about how you can contribute to Ubuntu.
+Learn more about how you can contribute to Ubuntu.
 
 - [Become a wiki contributor *Start editing content and creating new pages*](/community/wiki)
 - [Contribute to our products *Make contributions to our code and documentation.*](/community/platforms)
