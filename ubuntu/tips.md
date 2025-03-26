@@ -2,15 +2,13 @@
 title: Tips
 description: Quick tips for getting the best out of Ubuntu
 published: true
-date: 2025-03-26T01:26:13.707Z
+date: 2025-03-26T11:21:16.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T12:25:04.784Z
 ---
 
-# Tips
-
-## Terminal
+# Terminal
 
 > How do I confirm what Ubuntu version I am using?
 
