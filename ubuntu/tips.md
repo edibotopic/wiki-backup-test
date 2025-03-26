@@ -2,7 +2,7 @@
 title: Tips
 description: Quick tips for getting the best out of Ubuntu
 published: true
-date: 2025-03-25T17:06:47.823Z
+date: 2025-03-26T01:26:13.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T12:25:04.784Z
