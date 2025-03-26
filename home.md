@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-03-26T14:41:12.418Z
+date: 2025-03-26T14:42:47.408Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -43,7 +43,7 @@ dateCreated: 2025-02-11T09:53:09.747Z
 > With the help of the community, our contributions will grow stronger over time.
 {.is-info}
 
-## Distribution
+## Ubuntu distribution
 
 Discover why Ubuntu is one of the most popular Linux distributions.
 
@@ -51,15 +51,7 @@ Discover why Ubuntu is one of the most popular Linux distributions.
 - [Applications *Find packages, apps and toolchains available on Ubuntu.*](/ubuntu/software)
 {.links-list}
 
-## Community
-
-Learn more about how you can contribute to Ubuntu.
-
-- [Become a wiki contributor *Start editing content and creating new pages*](/community/wiki)
-- [Contribute to Ubuntu products and features *Make contributions to our code and documentation.*](/community/platforms)
-{.links-list}
-
-## Topics
+## Ubuntu topics
 
 Find some of the most popular topics in the wiki.
 
@@ -70,7 +62,6 @@ Find some of the most popular topics in the wiki.
 - [Switching to Ubuntu](/home/alsa)
 - [Trying Ubuntu](/home/pulseaudio)
 - [Dual-booting Ubuntu](/home/pipewire)
-
 
 ## Applications
 
