@@ -2,12 +2,12 @@
 title: How to create a cloud with Multipass
 description: Guide on learning the cloud with Multipass
 published: true
-date: 2025-02-11T10:38:18.936Z
-tags: cloud, multipass, learn, howto, guide
+date: 2025-03-26T11:55:08.488Z
+tags: cloud, multipass, tutorial
 editor: markdown
 dateCreated: 2025-02-11T10:38:17.436Z
 ---
 
-# How to create a cloud with Multipass
+# Learn to make a cloud with Multipass
 
 TODO...
