@@ -1,8 +1,8 @@
 ---
 title: Ubuntu wiki
-description: Welcome to our wiki, the best place to collaborate on everything Ubuntu.
+description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-03-26T12:51:36.764Z
+date: 2025-03-26T14:26:54.638Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
