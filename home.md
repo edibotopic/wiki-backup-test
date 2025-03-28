@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-03-28T12:39:21.135Z
+date: 2025-03-28T12:39:48.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -37,7 +37,11 @@ dateCreated: 2025-02-11T09:53:09.747Z
 
 
 
-In this wiki you can find, add and connect ideas about Ubuntu. The wiki makes it easy for anyone to update pages and create new ones. We welcome everyone — engineers, writers, hobbyists — to make their own unique contribution. With the help of the community, all of our contributions will grow stronger over time.
+In this wiki you can find, add and connect ideas about Ubuntu. 
+The wiki makes it easy for anyone to update pages and create new ones. 
+
+We welcome everyone — engineers, writers, hobbyists — to make their own unique contribution. 
+With the help of the community, all of our contributions will grow stronger over time.
 
 ---
 
