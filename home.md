@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-03-28T12:51:18.740Z
+date: 2025-03-28T12:57:25.555Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -63,15 +63,12 @@ Contribute to Ubuntu and become a member of a global community.
 
 ## Technical guides for Ubuntu
 
-Find some of the most popular topics in the wiki.
-
 # Popular topics {.tabset}
 
 ## Installation
 
-- [Switching to Ubuntu](/home/alsa)
-- [Trying Ubuntu](/home/pulseaudio)
-- [Dual-booting Ubuntu](/home/pipewire)
+- [Switching to Ubuntu](/home/switching)
+- [Dual-booting Ubuntu](/home/dual)
 
 ## Applications
 
