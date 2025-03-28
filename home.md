@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-03-26T14:44:46.525Z
+date: 2025-03-28T12:39:21.135Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -11,43 +11,51 @@ dateCreated: 2025-02-11T09:53:09.747Z
 > Download our latest Long Term Support release — [Ubuntu 24.04 LTS (Noble Numbat)]()
 {.is-success}
 
-<div class="cardGroup">
-  <div class="card cardGroup__card">
-    <div class="card__description cardGroup__cardDescription">
-      <div class="icon fa fa-download card__descriptionIcon"></div>
-      <div class="card__descriptionText"><a href="/ubuntu/install">Install<br/> Ubuntu</a></div>
-    </div>
-    <div class="card__price">for Desktop, Server, and WSL</div>
-  </div>
-  <div class="card cardGroup__card">
-    <div class="card__description cardGroup__cardDescription">
-      <div class="icon fa fa-pen card__descriptionIcon"></div>
-      <div class="card__descriptionText"><a href="/community/wiki">Contribute to<br/>the wiki</a></div>
-    </div>
-    <div class="card__price">with tips, hacks, and guides</div>
-  </div>
-  <div class="card cardGroup__card">
-    <div class="card__description cardGroup__cardDescription">
-      <div class="icon fa fa-newspaper card__descriptionIcon"></div>
-      <div class="card__descriptionText"><a href="/documentation/home">Read our official<br/> documentation</a></div>
-    </div>
-    <div class="card__price">for enterprise-grade support</div>
-  </div>
-</div>
+<!-- <div class="cardGroup"> -->
+<!--   <div class="card cardGroup__card"> -->
+<!--     <div class="card__description cardGroup__cardDescription"> -->
+<!--       <div class="icon fa fa-download card__descriptionIcon"></div> -->
+<!--       <div class="card__descriptionText"><a href="/ubuntu/install">Install<br/> Ubuntu</a></div> -->
+<!--     </div> -->
+<!--     <div class="card__price">for Desktop, Server, and WSL</div> -->
+<!--   </div> -->
+<!--   <div class="card cardGroup__card"> -->
+<!--     <div class="card__description cardGroup__cardDescription"> -->
+<!--       <div class="icon fa fa-pen card__descriptionIcon"></div> -->
+<!--       <div class="card__descriptionText"><a href="/community/wiki">Contribute to<br/>the wiki</a></div> -->
+<!--     </div> -->
+<!--     <div class="card__price">with tips, hacks, and guides</div> -->
+<!--   </div> -->
+<!--   <div class="card cardGroup__card"> -->
+<!--     <div class="card__description cardGroup__cardDescription"> -->
+<!--       <div class="icon fa fa-newspaper card__descriptionIcon"></div> -->
+<!--       <div class="card__descriptionText"><a href="/documentation/home">Read our official<br/> documentation</a></div> -->
+<!--     </div> -->
+<!--     <div class="card__price">for enterprise-grade support</div> -->
+<!--   </div> -->
+<!-- </div> -->
+
+
+
+In this wiki you can find, add and connect ideas about Ubuntu. The wiki makes it easy for anyone to update pages and create new ones. We welcome everyone — engineers, writers, hobbyists — to make their own unique contribution. With the help of the community, all of our contributions will grow stronger over time.
 
 ---
-
-> In this wiki you can find, add and connect ideas about Ubuntu.
-> The wiki makes it easy for anyone to update pages and create new ones.
-> We welcome everyone — engineers, writers, hobbyists — to make their own unique contribution.
-> With the help of the community, all of our contributions will grow stronger over time.
 
 ## Ubuntu distribution
 
 Discover why Ubuntu is one of the most popular Linux distributions.
 
 - [Ubuntu *An overview of Ubuntu and the history of its development.*](/ubuntu/overview)
-- [Applications *Find packages, apps and toolchains available on Ubuntu.*](/ubuntu/software)
+- [Applications *Use your favourite software on Ubuntu.*](/ubuntu/software)
+- [Skills *Increase your technical ability with Ubuntu and Linux.*](/ubuntu/software)
+{.links-list}
+
+## Contributing
+
+Contribute to Ubuntu and become a member of a global community.
+
+- [Wiki *Become a wiki contributor.*](/community/wiki)
+- [Diataxis *Learn how to write quality technical content.*](/ubuntu/software)
 {.links-list}
 
 ## Ubuntu topics
