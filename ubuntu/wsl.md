@@ -1,9 +1,9 @@
 ---
-title: WSL
-description: About Ubuntu on WSL
+title: Windows Subsystem for Linux
+description: An excellent way to run Ubuntu on Windows
 published: true
-date: 2025-02-11T10:28:02.675Z
-tags: ubuntu, windows, wsl
+date: 2025-03-31T15:45:20.762Z
+tags: windows, wsl, explanation
 editor: markdown
 dateCreated: 2025-02-11T10:28:01.167Z
 ---
