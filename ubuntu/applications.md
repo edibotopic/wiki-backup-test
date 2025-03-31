@@ -2,8 +2,8 @@
 title: Ubuntu applications
 description: 
 published: true
-date: 2025-03-31T16:25:39.798Z
-tags: 
+date: 2025-03-31T16:30:47.816Z
+tags: stub
 editor: markdown
 dateCreated: 2025-03-31T16:15:36.104Z
 ---
