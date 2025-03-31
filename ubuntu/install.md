@@ -1,26 +1,24 @@
 ---
-title: Install
-description: Ubuntu installation on different platforms
+title: How to install Ubuntu Desktop
+description: Steps to install Ubuntu for Desktop
 published: true
-date: 2025-03-04T15:34:05.496Z
-tags: guide, install, dowload, how-to
+date: 2025-03-31T15:37:29.513Z
+tags: install, how-to
 editor: markdown
 dateCreated: 2025-03-04T15:34:03.931Z
 ---
 
-# Choose a platform
+# How to install Ubuntu Desktop
 
-Go to the Ubuntu downloads page at [ubuntu.com/download](https://ubuntu.com/download) and choose your platform.
+Downloads of Ubuntu for different platforms can be found at [ubuntu.com/download](https://ubuntu.com/download).
 
-For Desktop, navigate to [https://ubuntu.com/download/desktop](ubuntu.com/download/desktop).
+For Desktop, navigate to [ubuntu.com/download/desktop](https://ubuntu.com/download/desktop).
 
 # Desktop installation
 
 ## 1. Download an image
 
 Click the button to download the latest LTS release.
-
-For more information on the Ubuntu release cycle visit [](
 
 ## 2. Create a bootable USB drive
 
