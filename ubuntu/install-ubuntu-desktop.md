@@ -2,7 +2,7 @@
 title: How to install Ubuntu Desktop
 description: Steps to install Ubuntu for Desktop
 published: true
-date: 2025-03-31T15:37:29.513Z
+date: 2025-03-31T15:37:38.573Z
 tags: install, how-to
 editor: markdown
 dateCreated: 2025-03-04T15:34:03.931Z
