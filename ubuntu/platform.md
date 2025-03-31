@@ -1,8 +1,8 @@
 ---
-title: Ubuntu on different platforms
+title: Ubuntu platform reference table
 description: Reference table showing the different platforms targeted by Ubuntu
 published: true
-date: 2025-03-31T15:23:12.055Z
+date: 2025-03-31T16:06:10.076Z
 tags: reference
 editor: markdown
 dateCreated: 2025-03-31T15:23:12.055Z
