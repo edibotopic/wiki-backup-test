@@ -1,8 +1,8 @@
 ---
-title: How to use hardware backed encryption
+title: How to use hardware-backed encryption
 description: 
 published: true
-date: 2025-03-31T15:33:42.038Z
+date: 2025-03-31T16:09:17.287Z
 tags: how-to
 editor: markdown
 dateCreated: 2025-03-31T15:33:02.518Z
