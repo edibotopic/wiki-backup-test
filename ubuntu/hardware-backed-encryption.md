@@ -2,7 +2,7 @@
 title: How to use hardware backed encryption
 description: 
 published: true
-date: 2025-03-31T15:33:02.518Z
+date: 2025-03-31T15:33:42.038Z
 tags: how-to
 editor: markdown
 dateCreated: 2025-03-31T15:33:02.518Z
@@ -43,6 +43,7 @@ sudo snap recovery --show-keys
 Once retrieved, store it somewhere safe, such as in a password manager. You want the key to be easy to find but also well protected, because anyone with this key could access your personal data.
 
 > We are planning to integrate recovery key creation into the Ubuntu installer and the Security Center. Once this is in place, the above command will no longer be available.
+{.is-info}
 
 ## Use recovery keys for other operating systems
 
