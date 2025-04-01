@@ -2,11 +2,27 @@
 title: Tips
 description: Quick tips for getting the best out of Ubuntu
 published: true
-date: 2025-03-26T11:22:01.228Z
-tags: 
+date: 2025-04-01T14:13:26.775Z
+tags: needs work
 editor: markdown
 dateCreated: 2025-03-04T12:25:04.784Z
 ---
+
+# Trying Ubuntu
+
+> What's the easiest way to try Ubuntu as a Windows user?
+
+You can get the full terminal experience using WSL.
+Ubuntu is the default Linux distro on WSL.
+
+Installation on Windows 11 is as easy as:
+
+```
+wsl --install
+```
+
+This will install Ubuntu and place you in an Ubuntu terminal session.
+You can also launch graphical applications from the terminal.
 
 # Terminal
 
