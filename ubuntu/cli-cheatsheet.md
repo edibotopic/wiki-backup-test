@@ -2,15 +2,13 @@
 title: Useful terminal commands on Ubuntu
 description: 
 published: true
-date: 2025-04-01T09:10:35.797Z
+date: 2025-04-01T09:11:06.809Z
 tags: reference
 editor: markdown
 dateCreated: 2025-04-01T09:10:35.797Z
 ---
 
-# Useful terminal commands on Ubuntu
-
-##  System
+#  System
 
 1. **System information**  
    * `uname -a`: Displays all system information.  
@@ -38,7 +36,7 @@ dateCreated: 2025-04-01T09:10:35.797Z
    * `crontab -e`: Edits cron jobs for the current user.  
    * `crontab -l`: Lists cron jobs for the current user.
 
-## Files
+# Files
 
 6. **File management**  
    * `ls`: Lists files and directories.  
@@ -68,7 +66,7 @@ dateCreated: 2025-04-01T09:10:35.797Z
     * `tail <file>`: Shows the last few lines of a file.  
     * `awk '{print}' <[file>]`: Prints every line in a file.
 
-## Packages
+# Packages
 
 12. **Package management (APT)**  
     * `sudo apt install <package>`: Installs a package.  
@@ -87,7 +85,7 @@ dateCreated: 2025-04-01T09:10:35.797Z
     * `snap list`: Lists all installed Snap packages.  
     * `snap info <snap_name>`: Displays information about a Snap package.
 
-## Users & groups
+# Users & groups
 
 14. **User management**  
     * `w`: Shows which users are logged in.  
@@ -104,7 +102,7 @@ dateCreated: 2025-04-01T09:10:35.797Z
     * `sudo addgroup <groupname>`: Creates a new group.  
     * `sudo delgroup <groupname>`: Deletes a group.
 
-## Networking
+# Networking
 
 16. **Networking**  
     * `ip addr show`: Displays network interfaces and IP addresses.  
@@ -126,7 +124,7 @@ dateCreated: 2025-04-01T09:10:35.797Z
     * `ssh <user@host>`: Connects to a remote host via SSH.  
     * `scp <source> <user@host>:<destination>`: Securely copies files between hosts.
 
-## LXD
+# LXD
 
 LXD is a modern, secure and powerful tool that provides a unified experience for running and managing containers or virtual machines. Visit [https://canonical.com/lxd](https://canonical.com/lxd) for more information.
 
@@ -156,7 +154,7 @@ LXD is a modern, secure and powerful tool that provides a unified experience for
 * `lxc project set <project> <option>`: Configures a project.  
 * `lxc project switch <project>`: Switches to a project.
 
-## Ubuntu Pro
+# Ubuntu Pro
 
 Ubuntu Pro delivers 10 years of expanded security coverage on top of Ubuntu’s Long Term Support (LTS) commitment, in addition to management and compliance tooling. Visit [ubuntu.com/pro](https://ubuntu.com/pro) to register for free on up to five machines.
 
