@@ -2,7 +2,7 @@
 title: How to install software
 description: Software on Ubuntu
 published: true
-date: 2025-03-31T15:43:13.206Z
+date: 2025-04-01T08:00:14.114Z
 tags: how-to
 editor: markdown
 dateCreated: 2025-03-04T12:17:19.372Z
@@ -11,12 +11,6 @@ dateCreated: 2025-03-04T12:17:19.372Z
 # Software
 
 Ubuntu on Desktop is designed to work out-of-the-box and comes pre-packaged with tools suitable for all users.
-
-Developers can immediately run Python scripts without installing anything:
-
-```bash
-python3 myscript.py
-```
 
 ## Installing software
 
