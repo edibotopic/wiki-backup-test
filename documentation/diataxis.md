@@ -1,8 +1,8 @@
 ---
 title: Diataxis
-description: The model of how we write documentation at Canonical
+description: A model for authoring quality content
 published: true
-date: 2025-03-04T11:18:48.608Z
+date: 2025-04-01T15:18:12.082Z
 tags: documentation, quality
 editor: markdown
 dateCreated: 2025-03-04T11:18:47.070Z
@@ -10,9 +10,9 @@ dateCreated: 2025-03-04T11:18:47.070Z
 
 # Diataxis
 
-Documentation at Canonical is written according to the Diataxis model.
+The Diataxis model can help you identity the type of content that you are writing when contributing to the wiki.
 
-This groups documentation into the following four types:
+Diataxis groups documentation into the following four types:
 
 * How-to
 * Tutorial
@@ -20,9 +20,8 @@ This groups documentation into the following four types:
 * Explanation
 
 Diataxis helps you identity first *what you are writing* then *how it should be written*.
-We expect any kind of technical writing to broadly follow this model.
 
-You can find detailed overviews of Diataxis elsewhere. Below is a brief introduction to the four types.
+Below is a brief introduction to the four types.
 
 ## How-to
 
@@ -57,3 +56,7 @@ Explanations don't help someone achive any specific actions.
 Instead, they help develop understanding.
 
 For example, an explanation of when it is appropriate to use containers instead of virtual machines.
+
+---
+
+> Trying to contribute a how-to guide, which also functions as an explanation, and a reference, can be very demanding. Identifying the Diataxis type can help you stay focused on the key information.{.is-success}
