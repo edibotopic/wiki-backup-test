@@ -2,7 +2,7 @@
 title: ubuntu wiki
 description: The place to collaborate on everything Ubuntu.
 published: true
-date: 2025-04-01T15:39:16.138Z
+date: 2025-04-01T15:53:22.551Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -75,17 +75,16 @@ Contribute to Ubuntu and become a member of a global community.
 - [Snaps](/home/snaps)
 - [apt](/home/apt)
 
+## Cloud
+
+- [Multipass](/cloud/multipass)
+- [How to create a cloud with Multipass](/cloud/multipass/multipasscloudguide)
+
 ## Development
 
 - [Snaps](/home/snap)
 - [Editors](/home/editors)
 - [Privileges](/home/privileges)
-
-## Adminstration
-
-- [SSH](/home/ssh)
-- [Remote desktop](/home/remote)
-- [Managing a server](/home/server)
 
 ## Media
 
@@ -93,7 +92,14 @@ Contribute to Ubuntu and become a member of a global community.
 - [Video](/home/gaming)
 - [Gaming](/home/gaming)
 
-## Cloud
+## Remote management
 
-- [Multipass](/cloud/multipass)
-- [How to create a cloud with Multipass](/cloud/multipass/multipasscloudguide)
+- [SSH](/home/ssh)
+- [Remote desktop](/home/remote)
+- [Managing a server](/home/server)
+
+## Areas of interest
+
+- [Ubuntu engineering](/home/engineering)
+- [Ubuntu design](/home/design)
+- [Ubuntu documentation](/home/documentation)
