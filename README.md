@@ -1,3 +1,3 @@
-# wiki-backup-test
+# Synced wiki repo
 
-The contents of a wiki.js instance are periodically synced with this repo.
+The contents of a local wiki.js instance are periodically synced with this repo.
