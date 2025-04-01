@@ -2,7 +2,7 @@
 title: How to dual-boot Ubuntu
 description: Use Ubuntu side-by-side with your current OS
 published: true
-date: 2025-04-01T15:45:41.337Z
+date: 2025-04-01T15:46:06.588Z
 tags: how-to, needs work, out of date
 editor: markdown
 dateCreated: 2025-04-01T08:25:15.664Z
@@ -12,6 +12,10 @@ dateCreated: 2025-04-01T08:25:15.664Z
 
 > This content is borrowed from the Community Help Wiki
 {.is-info}
+
+> This content needs to be updated
+{.is-warning}
+
 
 # Introduction
 
