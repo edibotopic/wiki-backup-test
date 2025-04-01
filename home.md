@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-04-01T08:16:16.400Z
+date: 2025-04-01T08:27:09.199Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -67,7 +67,7 @@ Contribute to Ubuntu and become a member of a global community.
 
 - [How to dual-boot Ubuntu](/ubuntu/dual-boot)
 - [Learn Ubuntu with WSL](/ubuntu/learn-with-wsl)
-- [How to do a full install of Ubuntu](/ubuntu/full-install)
+- [How to do a full install of Ubuntu](/ubuntu/install-ubuntu-desktop)
 
 ## Applications
 
