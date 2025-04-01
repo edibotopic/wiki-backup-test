@@ -2,7 +2,7 @@
 title: Contribute
 description: Contributing to the wiki.
 published: true
-date: 2025-04-01T14:58:15.123Z
+date: 2025-04-01T15:26:29.483Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -12,11 +12,29 @@ dateCreated: 2025-03-04T11:04:00.934Z
 
 We welcome all kinds of contributions to the Ubuntu wiki.
 
+## Prerequisites
+
+### Option 1
+
+You are registered as a user with the Ubuntu wiki and are logged in.
+
+This allows you to edit wiki pages directly.
+
+> Choose the markdown editor if creating a new page.
+{.is-warning}
+
+### Option 2
+
+You have a GitHub account and are logged in.
+
+
+
 ## Example contributions
 
 * Fixing errors
 * Updating content
 * Creating pages
+* Adding tags
 
 ## Types of content
 
@@ -49,8 +67,9 @@ graph TD
 
 ## Checklist for new pages
 
-- [x] I have an account and am logged in
-- [x] The page doesn't already exist
-- [x] I have followed the [Diataxis](/documentation/diataxis) model during writing
+- [x] I have a wiki account **_OR_** I have a GitHub account
+- [x] I am logged in
+- [x] The page doesn't already exist on the wiki or in the official documentation
+- [x] I have followed the [Diataxis](/documentation/diataxis) model, if appropriate
 - [x] I have reviewed and edited the page for correctness and accuracy
 
