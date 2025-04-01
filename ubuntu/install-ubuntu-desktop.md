@@ -2,7 +2,7 @@
 title: How to install Ubuntu Desktop
 description: Steps to install Ubuntu for Desktop
 published: true
-date: 2025-03-31T15:45:55.806Z
+date: 2025-04-01T15:54:33.038Z
 tags: install, how-to
 editor: markdown
 dateCreated: 2025-03-04T15:34:03.931Z
@@ -27,6 +27,10 @@ Use a tool like [balenaEtcher](https://etcher.balena.io/) to flash your USB with
 ### 3. Boot into your device
 
 With the USB flash drive inserted, boot into your device and follow the on-screen instructions to install Ubuntu.
+
+Choose the option for a full installation when given the option.
+
+---
 
 For installation on other platforms, follow these guides:
 
