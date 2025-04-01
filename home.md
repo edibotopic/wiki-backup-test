@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-04-01T08:15:33.503Z
+date: 2025-04-01T08:15:50.936Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -74,7 +74,6 @@ Contribute to Ubuntu and become a member of a global community.
 - [Installing software](/ubuntu/install-software)
 - [Snaps](/home/snaps)
 - [apt](/home/apt)
-- [dpkg](/home/dpkg)
 
 ## Development
 
