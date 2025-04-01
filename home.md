@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-03-31T16:31:58.436Z
+date: 2025-04-01T08:15:33.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -63,14 +63,15 @@ Contribute to Ubuntu and become a member of a global community.
 
 # Popular topics {.tabset}
 
-## Installation
+## Getting started with Ubuntu
 
-- [Switching to Ubuntu](/home/switching)
-- [Dual-booting Ubuntu](/home/dual)
+- [How to dual-boot Ubuntu](/ubuntu/dual-boot)
+- [Learn about Ubuntu with WSL](/ubuntu/learn-with-wsl)
+- [How to do a full install of Ubuntu](/ubuntu/full-install)
 
 ## Applications
 
-- [Package management](/home/packages)
+- [Installing software](/ubuntu/install-software)
 - [Snaps](/home/snaps)
 - [apt](/home/apt)
 - [dpkg](/home/dpkg)
