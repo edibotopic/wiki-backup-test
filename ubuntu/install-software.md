@@ -2,7 +2,7 @@
 title: How to install software
 description: Software on Ubuntu
 published: true
-date: 2025-04-01T08:00:14.114Z
+date: 2025-04-01T08:11:46.521Z
 tags: how-to
 editor: markdown
 dateCreated: 2025-03-04T12:17:19.372Z
@@ -11,6 +11,9 @@ dateCreated: 2025-03-04T12:17:19.372Z
 # Software
 
 Ubuntu on Desktop is designed to work out-of-the-box and comes pre-packaged with tools suitable for all users.
+
+> See an [overview of applications](/ubuntu/applications) available on Ubuntu.
+{.is-info}
 
 ## Installing software
 
