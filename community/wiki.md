@@ -2,7 +2,7 @@
 title: Contribute
 description: Contributing to the wiki.
 published: true
-date: 2025-03-04T11:37:15.253Z
+date: 2025-04-01T14:55:32.170Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -31,6 +31,22 @@ This could include:
 
 The content is not restricted to engineering topics. 
 If you are interested in other topics, like design or art, your contributions are also welcome.
+
+## What content is suitable for the wiki?
+
+Here is how you might approach answering this question.
+
+```mermaid
+graph TD
+    A[I want to add something] --> B{Does it already exist?}
+    B -- Yes --> C[Don't add it]
+    B -- No --> D[Add and tag it]
+    C --> E[Go outside]
+    D --> F
+    E[Consider improving the existing page]
+    F[Bookmark it and keep it up to date]
+
+```
 
 ## Checklist for new pages
 
