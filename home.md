@@ -2,7 +2,7 @@
 title: Ubuntu wiki
 description: Welcome to our wiki, the place to collaborate on everything Ubuntu.
 published: true
-date: 2025-04-01T08:28:22.959Z
+date: 2025-04-01T08:30:46.251Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -87,40 +87,13 @@ Contribute to Ubuntu and become a member of a global community.
 - [Remote desktop](/home/remote)
 - [Managing a server](/home/server)
 
-## Audio
+## Media
 
-- [ALSA](/home/alsa)
-- [Pulse audio](/home/pulseaudio)
-- [Pipewire](/home/pipewire)
-- [Jack](/home/jack)
-
-## Graphics
-
-- [NVIDIA](/home/nvidia)
+- [Audio](/home/audio)
+- [Video](/home/gaming)
 - [Gaming](/home/gaming)
 
 ## Cloud
 
 - [Multipass](/cloud/multipass)
 - [How to create a cloud with Multipass](/cloud/multipass/multipasscloudguide)
-
-## Platforms
-
-- [Desktop](/ubuntu/desktop)
-- [Server](/ubuntu/server)
-- [WSL](/ubuntu/wsl)
-- [Core](/ubuntu/core)
-
-## Hardware
-
-- [Design](/practice/design)
-- [Documentation](/practice/docs)
-- [Engineering](/practice/engineering)
-- [Community](/practice/community)
-
-## Practice
-
-- [Design](/practice/design)
-- [Documentation](/practice/docs)
-- [Engineering](/practice/engineering)
-- [Community](/practice/community)
