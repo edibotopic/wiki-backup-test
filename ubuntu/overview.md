@@ -2,17 +2,17 @@
 title: Ubuntu overview
 description: An overview of Ubuntu and its history
 published: true
-date: 2025-04-01T13:01:02.867Z
+date: 2025-04-01T13:32:37.788Z
 tags: explanation
 editor: markdown
 dateCreated: 2025-03-04T12:22:21.322Z
 ---
 
-Ubuntu is designed to be easy-to-use but is also suitable for advanced users.
+Ubuntu is designed to be easy-to-use, while also being suitable for advanced users.
 
 # Technology
 
-Ubuntu is built on top of the Debian, a free and open source Linux distribution.
+Ubuntu is built on top of Debian, a free and open source Linux distribution.
 
 The Ubuntu Desktop environment is based on GNOME.
 
