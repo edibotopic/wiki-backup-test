@@ -2,7 +2,7 @@
 title: How to install Ubuntu Desktop
 description: Steps to install Ubuntu for Desktop
 published: true
-date: 2025-04-01T15:54:33.038Z
+date: 2025-04-01T15:55:57.769Z
 tags: install, how-to
 editor: markdown
 dateCreated: 2025-03-04T15:34:03.931Z
@@ -18,9 +18,13 @@ For Desktop, navigate to [ubuntu.com/download/desktop](https://ubuntu.com/downlo
 
 ### 1. Download an image
 
-Click the button to download the latest LTS release.
+Select the release you wish to downloaded.
+
+We recommend the latest LTS version.
 
 ### 2. Create a bootable USB drive
+
+Make sure you have a USB stick with sufficient space.
 
 Use a tool like [balenaEtcher](https://etcher.balena.io/) to flash your USB with the image.
 
