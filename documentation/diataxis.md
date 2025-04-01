@@ -2,8 +2,8 @@
 title: Diataxis
 description: A model for authoring quality content
 published: true
-date: 2025-04-01T15:18:12.082Z
-tags: documentation, quality
+date: 2025-04-01T15:18:36.918Z
+tags: wiki, community, contributing
 editor: markdown
 dateCreated: 2025-03-04T11:18:47.070Z
 ---
