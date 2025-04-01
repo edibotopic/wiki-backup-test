@@ -2,7 +2,7 @@
 title: Contribute
 description: Contributing to the wiki.
 published: true
-date: 2025-04-01T15:26:29.483Z
+date: 2025-04-01T15:30:02.474Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -27,7 +27,10 @@ This allows you to edit wiki pages directly.
 
 You have a GitHub account and are logged in.
 
+You can then click `Edit on GitHub`, which will open the page for editing in GitHub.
 
+> Users will have their account deleted for any repeated indiscretions.
+{.is-danger}
 
 ## Example contributions
 
