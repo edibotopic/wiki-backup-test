@@ -2,7 +2,7 @@
 title: Tips
 description: Quick tips for getting the best out of Ubuntu
 published: true
-date: 2025-04-02T15:20:33.008Z
+date: 2025-04-02T15:20:55.107Z
 tags: needs work
 editor: markdown
 dateCreated: 2025-03-04T12:25:04.784Z
@@ -41,10 +41,4 @@ lsb_release -a
 
 ```bash
 sudo apt update
-```
-
-> How do I open the current directory in the file explorer from the terminal?
-
-```bash
-nautilus .
 ```
