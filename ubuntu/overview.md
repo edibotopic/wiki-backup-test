@@ -2,7 +2,7 @@
 title: Ubuntu overview
 description: An overview of Ubuntu and its history
 published: true
-date: 2025-04-01T13:32:37.788Z
+date: 2025-04-02T15:50:49.091Z
 tags: explanation
 editor: markdown
 dateCreated: 2025-03-04T12:22:21.322Z
@@ -20,17 +20,19 @@ Ubuntu is also used in servers, clouds and robots.
 
 # History
 
-Mark Shuttleworth founded Canonical and is its acting CEO.
+Mark Shuttleworth founded Canonical with a team of Debian developers in 2004.
 
 The development and maintenance of Ubuntu is funded by Canonical Ltd.
 
+‘Warty Warthog’ — version 4.10 of Ubuntu — was launched in October 2004
+
 # Business
 
-Canonical creates open source software, including Ubuntu.
+Canonical creates open source software, including Ubuntu, freely to everyone.
 
-It also provides features and support for enterprise users.
+It also provides features and support for enterprise users, who manage Ubuntu at scale.
 
-Ubuntu's well-defined release cycle has gained it a reputation for stability.
+Ubuntu's well-defined release cycle makes it a reliable OS for personal and corporate use.
 
 # Release cycle
 
