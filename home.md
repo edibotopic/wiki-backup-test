@@ -2,7 +2,7 @@
 title: ubuntu wiki
 description: The place to collaborate on everything Ubuntu.
 published: true
-date: 2025-04-01T15:53:22.551Z
+date: 2025-04-02T10:15:59.110Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -60,6 +60,9 @@ Contribute to Ubuntu and become a member of a global community.
 {.links-list}
 
 ## Technical guides for Ubuntu
+
+Our [official documentation](/documentation/home) has the most stable technical information about Ubuntu.
+The wiki supplements that documentation with wide variety of community-generated content.
 
 # Popular topics {.tabset}
 
