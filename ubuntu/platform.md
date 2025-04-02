@@ -2,19 +2,25 @@
 title: Ubuntu platform reference table
 description: Reference table showing the different platforms targeted by Ubuntu
 published: true
-date: 2025-03-31T16:06:10.076Z
+date: 2025-04-02T10:26:39.645Z
 tags: reference
 editor: markdown
 dateCreated: 2025-03-31T15:23:12.055Z
 ---
 
 # Ubuntu platform reference
-While Ubuntu is well known as a Linux desktop distribution,
-it also targets other platforms
+"Ubuntu" is well known as a Linux desktop distribution,
 
-| platform  | OS      | description  |
-|-----------|---------|--------------|
-| desktop   | Linux   | TODO         |
-| server    | Linux   | TODO         |
-| WSL       | Windows | TODO         |
-| ...       | ...     | ...          |
+There are special versions of Ubuntu that also target other platforms and use-cases.
+
+> Packages are only installed if they are necessary for the platform.
+> This can be seen in the different download size.
+{.is-info}
+
+
+| platform  | OS      | uses                            | size    |
+|-----------|---------|---------------------------------|---------|
+| Desktop   | Linux   | use as your daily driver        | 5.9 GB  |
+| Server    | Linux   | create a private cloud          | 3.0 GB  |
+| WSL       | Windows | develop with Ubuntu on Windows  | 357 MB  |
+| ...       | ...     | ...                             | ...     |
