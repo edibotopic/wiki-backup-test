@@ -2,7 +2,7 @@
 title: Contribute
 description: Contributing to the wiki.
 published: true
-date: 2025-04-02T15:23:27.520Z
+date: 2025-04-02T16:12:41.901Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -70,7 +70,6 @@ graph TD
     C --> E[Consider improving the existing page]
     D --> F[Bookmark it]
     F --> G[Edit your work for accuracy, clarity and quality]
-
 ```
 
 ## Checklist for new pages
