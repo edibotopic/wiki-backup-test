@@ -2,8 +2,8 @@
 title: How to use hardware-backed encryption
 description: 
 published: true
-date: 2025-03-31T16:09:17.287Z
-tags: how-to
+date: 2025-04-02T16:15:45.293Z
+tags: desktop, how-to, encryption
 editor: markdown
 dateCreated: 2025-03-31T15:33:02.518Z
 ---
