@@ -1,8 +1,8 @@
 ---
-title: Contribute
+title: Contributing
 description: Contributing to the wiki.
 published: true
-date: 2025-04-02T17:11:16.021Z
+date: 2025-04-02T17:11:24.796Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
