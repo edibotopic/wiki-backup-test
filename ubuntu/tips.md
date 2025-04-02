@@ -2,7 +2,7 @@
 title: Tips
 description: Quick tips for getting the best out of Ubuntu
 published: true
-date: 2025-04-01T14:13:26.775Z
+date: 2025-04-02T15:20:17.983Z
 tags: needs work
 editor: markdown
 dateCreated: 2025-03-04T12:25:04.784Z
@@ -22,7 +22,12 @@ wsl --install
 ```
 
 This will install Ubuntu and place you in an Ubuntu terminal session.
-You can also launch graphical applications from the terminal.
+You can also launch graphical applications from the terminal:
+
+```bash
+sudo apt install nautilus # install the Ubuntu graphical file manager
+nautilus # run the graphical file manager
+```
 
 # Terminal
 
