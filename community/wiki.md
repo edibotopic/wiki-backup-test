@@ -2,7 +2,7 @@
 title: Contribute
 description: Contributing to the wiki.
 published: true
-date: 2025-04-02T16:44:38.895Z
+date: 2025-04-02T16:53:25.672Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -80,4 +80,10 @@ graph TD
 - [x] I have followed the [Diataxis](/documentation/diataxis) model, if appropriate
 - [x] I have reviewed and edited the page for correctness and accuracy
 
+## The Ubuntu wiki on CODA
 
+Ubuntu Desktop is a project on the [Canonical Open Documentation Academy](https://github.com/canonical/open-documentation-academy).
+
+Find issues with the `desktop` label:
+
+![wiki-issues-coda.png](/wiki-issues-coda.png)
