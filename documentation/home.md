@@ -2,7 +2,7 @@
 title: Documentation
 description: Documentation about Ubuntu
 published: true
-date: 2025-03-25T17:19:35.816Z
+date: 2025-04-02T16:01:14.176Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-04T13:07:43.825Z
@@ -18,4 +18,5 @@ The Ubuntu distribution is used on multiple platforms, each with its own dedicat
 {.links-list}
 
 > While fundamentally the same distribution, Ubuntu is optimised for each platform.
+> Read the [Ubuntu platform reference table](/ubuntu/platform) for more information.
 {.is-info}
