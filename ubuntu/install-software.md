@@ -2,7 +2,7 @@
 title: How to install software
 description: Software on Ubuntu
 published: true
-date: 2025-04-01T08:11:46.521Z
+date: 2025-04-02T16:08:35.106Z
 tags: how-to
 editor: markdown
 dateCreated: 2025-03-04T12:17:19.372Z
@@ -41,3 +41,7 @@ Ubuntu supports snaps, a containerised and secure format for software packages t
 ```bash
 sudo snap install <package>
 ```
+
+> If you are a developer and want a deeper understanding of toolchains and environments
+> for development on Ubuntu, refer to the official [Ubuntu for Developers](https://canonical-ubuntu-for-developers.readthedocs-hosted.com/en/latest/) documentation.
+{.is-success}
