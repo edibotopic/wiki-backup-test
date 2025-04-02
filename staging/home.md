@@ -2,13 +2,13 @@
 title: Staging area
 description: A place for content that requires approval
 published: true
-date: 2025-04-02T14:44:02.941Z
+date: 2025-04-02T14:44:26.604Z
 tags: staging
 editor: markdown
 dateCreated: 2025-04-02T14:29:25.548Z
 ---
 
-# Staging area
+# Note on using the staging area
 
 As a **trial user** you can only create new content in the staging area.
 
