@@ -2,7 +2,7 @@
 title: Contribute
 description: Contributing to the wiki.
 published: true
-date: 2025-04-02T16:40:56.258Z
+date: 2025-04-02T16:42:13.685Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -80,7 +80,8 @@ graph TD
 - [x] I have followed the [Diataxis](/documentation/diataxis) model, if appropriate
 - [x] I have reviewed and edited the page for correctness and accuracy
 
-```html
+## Open Documentation Academy tracker
+
 <iframe src="https://github.com/canonical/open-documentation-academy/issues?q=is%3Aissue%20state%3Aopen%20label%3Adesktop" style="border:2px #E95420 solid;" name="tracker" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
-```
+
 
