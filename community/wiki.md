@@ -2,13 +2,13 @@
 title: Contribute
 description: Contributing to the wiki.
 published: true
-date: 2025-04-02T17:05:05.800Z
+date: 2025-04-02T17:11:16.021Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
 ---
 
-# Contribute
+# Contributing
 
 We welcome all kinds of contributions to the Ubuntu wiki.
 
@@ -87,16 +87,3 @@ Ubuntu Desktop is a project on the [Canonical Open Documentation Academy](https:
 Find issues with the `desktop` label:
 
 ![wiki-issues-coda.png](/wiki-issues-coda.png)
-
-## Kroki
-
-```kroki
-mermaid
-
-graph TD
-  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
-  B --> C{ How to contribute? }
-  C --> D[ Reporting bugs ]
-  C --> E[ Sharing ideas ]
-  C --> F[ Advocating ]
-```
