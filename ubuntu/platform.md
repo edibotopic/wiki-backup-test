@@ -2,7 +2,7 @@
 title: Ubuntu platform reference table
 description: Reference table showing the different platforms targeted by Ubuntu
 published: true
-date: 2025-04-02T10:26:47.810Z
+date: 2025-04-02T10:29:16.523Z
 tags: reference, needs work
 editor: markdown
 dateCreated: 2025-03-31T15:23:12.055Z
@@ -18,9 +18,9 @@ There are special versions of Ubuntu that also target other platforms and use-ca
 {.is-info}
 
 
-| platform  | OS      | uses                            | size    |
-|-----------|---------|---------------------------------|---------|
-| Desktop   | Linux   | use as your daily driver        | 5.9 GB  |
-| Server    | Linux   | create a private cloud          | 3.0 GB  |
-| WSL       | Windows | develop with Ubuntu on Windows  | 357 MB  |
-| ...       | ...     | ...                             | ...     |
+| platform  | OS      | uses                            | size    | docs                             |
+|-----------|---------|---------------------------------|---------|----------------------------------|
+| Desktop   | Linux   | use as your daily driver        | 5.9 GB  | [official Desktop docs](https://documentation.ubuntu.com/server/)        |
+| Server    | Linux   | create a private cloud          | 3.0 GB  | [official Server docs](https://documentation.ubuntu.com/server/)         |
+| WSL       | Windows | develop with Ubuntu on Windows  | 357 MB  | [official Ubuntu on WSL docs](https://documentation.ubuntu.com/server/)  |
+| ...       | ...     | ...                             | ...     | ...                              |
