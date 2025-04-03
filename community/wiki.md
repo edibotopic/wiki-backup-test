@@ -2,7 +2,7 @@
 title: Contributing
 description: Contributing to the wiki.
 published: true
-date: 2025-04-02T17:11:24.796Z
+date: 2025-04-03T08:59:16.744Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -26,7 +26,7 @@ You are registered as a user with the Ubuntu wiki and are logged in.
 This allows you to edit wiki pages directly.
 
 > Choose the markdown editor if creating a new page.
-{.is-warning}
+{.is-warning}1.
 
 ### Option 2
 
@@ -50,10 +50,10 @@ The wiki accepts any content that is broadly **interesting** or **useful** to th
 
 This could include:
 
-* Technical how-to guides and tutorials
-* Technical explanations and references
-* Case-studies of Ubuntu usage
-* Small tips and hacks
+1. Technical how-to guides and tutorials
+1. Technical explanations and references
+1. Case-studies of Ubuntu usage
+1. Small tips and hacks
 
 The content is not restricted to engineering topics. 
 If you are interested in other topics, like design or art, your contributions are also welcome.
