@@ -2,7 +2,7 @@
 title: Contributing
 description: Contributing to the wiki.
 published: true
-date: 2025-04-03T08:59:16.744Z
+date: 2025-04-03T13:55:06.576Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -26,7 +26,7 @@ You are registered as a user with the Ubuntu wiki and are logged in.
 This allows you to edit wiki pages directly.
 
 > Choose the markdown editor if creating a new page.
-{.is-warning}1.
+{.is-warning}
 
 ### Option 2
 
