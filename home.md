@@ -2,7 +2,7 @@
 title: Ubuntu Wiki
 description: The place to collaborate on everything Ubuntu.
 published: true
-date: 2025-04-09T09:09:32.442Z
+date: 2025-04-09T09:11:03.037Z
 tags: home
 editor: markdown
 dateCreated: 2025-02-11T09:53:09.747Z
@@ -38,7 +38,7 @@ dateCreated: 2025-02-11T09:53:09.747Z
 This wiki makes it easy to find, add and connect ideas about Ubuntu.
 Everyone — engineers, writers, hobbyists — is welcome to make their own unique contribution. 
 
-# Ubuntu Desktop
+## Ubuntu Desktop
 
 Discover why Ubuntu is one of the most popular Linux distributions.
 
@@ -47,7 +47,7 @@ Discover why Ubuntu is one of the most popular Linux distributions.
 - [Ubuntu platform reference *Find the right Ubuntu for you.*](/ubuntu/platform)
 {.links-list}
 
-# Contributing to Ubuntu
+## Contributing to Ubuntu
 
 Contribute to Ubuntu and become a member of a global community.
 
