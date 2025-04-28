@@ -165,7 +165,7 @@ The `&&` operator allows you to run commands sequentially, while the [`pwd`]() c
 prints the path of the current working directory.
 
 Now that we've changed how our script functions, we should give it a more fitting name.
-To do this, we'll use the [`mv`]() command:
+To do this, we'll use the [`mv`](/general/mv-command) command:
 
 ```bash
 mv helloworld.sh print-directory.sh

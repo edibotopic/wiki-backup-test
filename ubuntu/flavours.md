@@ -3,7 +3,7 @@ title: Ubuntu flavours
 description: Brief overview of the most popular Ubuntu flavours
 published: true
 date: 2025-04-28T08:32:12.825Z
-tags: coreutils terminal tutorial
+tags: ubuntu explanation
 editor: markdown
 dateCreated: 2025-04-28T08:32:12.825Z
 ---
@@ -11,8 +11,8 @@ dateCreated: 2025-04-28T08:32:12.825Z
 
 # Ubuntu flavours
 
-While many associate Ubuntu with GNOME, there are many ways for users to enjoy
-Ubuntu Desktop.
+While many associate Ubuntu with the [GNOME desktop](/general/gnome-desktop), there are
+many ways for users to enjoy Ubuntu Desktop.
 
 Lorem ipsum
 
