@@ -27,8 +27,9 @@ In Linux, a [directory]() is a file that stores the names and metadata of other 
 Directories are typically represented by folders in graphical file managers.
 
 Let's create a directory to work in. Open your system's [terminal
-emulator]()--[`gnome-terminal`]() is the default for Ubuntu Desktop--and type the
-following command before pressing the 'Enter' key:
+emulator](/general/terminal-emulators)--[`gnome-terminal`](/general/gnome-terminal) is
+the default for Ubuntu Desktop--and type the following command before pressing the
+'Enter' key:
 
 ```bash
 mkdir project
