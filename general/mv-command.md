@@ -3,7 +3,7 @@ title: Coreutils mv command
 description: mv command usage and options
 published: true
 date: 2025-04-28T12:49:14.617Z
-tags: coreutils reference
+tags: coreutils reference mv
 editor: markdown
 dateCreated: 2025-04-28T12:49:14.617Z
 ---
