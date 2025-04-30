@@ -2,7 +2,7 @@
 title: Contributing
 description: Contributing to the wiki.
 published: true
-date: 2025-04-03T13:55:06.576Z
+date: 2025-04-30T11:52:01.109Z
 tags: wiki, community
 editor: markdown
 dateCreated: 2025-03-04T11:04:00.934Z
@@ -15,7 +15,6 @@ We welcome all kinds of contributions to the Ubuntu wiki.
 > Editing of some content is restricted.
 > For example, editing the homepage requires admin access.
 {.is-info}
-
 
 ## Prerequisites
 
