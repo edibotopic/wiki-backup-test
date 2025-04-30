@@ -2,25 +2,38 @@
 title: Ubuntu platform reference table
 description: Reference table showing the different platforms targeted by Ubuntu
 published: true
-date: 2025-04-02T15:17:08.920Z
+date: 2025-04-30T11:14:18.060Z
 tags: reference, needs work
 editor: markdown
 dateCreated: 2025-03-31T15:23:12.055Z
 ---
 
 # Ubuntu platform reference
-"Ubuntu" is well known as a Linux desktop distribution,
+"Ubuntu" is widely known as a Linux desktop distribution,
 
-There are special versions of Ubuntu that also target other platforms and use-cases.
+Ubuntu is available on multiple platforms, in addition to desktop. Relevant features, use cases, and documentation are summarised below.
 
-> Packages are only installed if they are necessary for the platform.
-> This can be seen in the different download size.
-{.is-info}
+> **Common Features**
+>
+>  **Long-Term Support (LTS)** releases every two years, maintained for **5 years** (extended to 10 years with Ubuntu Pro).  
+>  A **security-update infrastructure** (Livepatch, ESM, unattended-upgrades, CVE tracker).  
+>  Access to the **Snap** packaging ecosystem alongside traditional **.deb** packages.  
+>  A predictable release cadence (interim releases every six months).  
+>  Optional enterprise support with **Ubuntu Pro**.
+>
+> {.is-success}
 
+| **Name**              | **Target platform**                                                         | **Features**                                                                                                                                                                                   | **Docs / links**                                                                                                                                                                                                                          | **Example use-cases**                                                                                                                                                              |
+|-----------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Ubuntu Desktop**    | Personal computers (laptops, desktops)                                      | <ul><li>GNOME-based GUI by default</li><li>Optimised for everyday computing</li><li>Extensive range of desktop applications</li></ul>                                                           | <ul><li>[ubuntu.com/desktop](https://ubuntu.com/desktop)</li></ul>                                                                                                                                                                        | <ul><li>General-purpose personal computing</li><li>Office productivity, browsing, media consumption</li></ul>                                                                                       |
+| **Ubuntu Server**     | Physical or virtual servers, HPC clusters                                   | <ul><li>No GUI installed by default</li><li>Security-hardened, stable platform</li><li>Headless and cloud-friendly</li></ul>                                                                    | <ul><li>[ubuntu.com/server](https://ubuntu.com/server)</li><li>[documentation.ubuntu.com/server](https://documentation.ubuntu.com/server/)</li></ul>                                                                                     | <ul><li>Hosting web services & databases</li><li>Infrastructure / DevOps automation</li></ul>                                                                                                      |
+| **Ubuntu Cloud**      | Public, private, multi & hybrid clouds                                      | <ul><li>Pre-built cloud images</li><li>Optimised for fast boot and scale-out</li><li>Cloud-init for first-boot configuration</li></ul>                                                          | <ul><li>[ubuntu.com/cloud](https://ubuntu.com/cloud)</li></ul>                                                                                                                                                                             | <ul><li>Rapid VM provisioning on AWS/Azure/GCP</li><li>Large-scale automated IaaS (OpenStack, MAAS)</li></ul>                                                                                       |
+| **Ubuntu Core**       | IoT devices, embedded systems, robotics                                     | <ul><li>Fully snap-based, immutable OS</li><li>Atomic over-the-air updates</li><li>Small footprint & secure boot</li></ul>                                                                      | <ul><li>[ubuntu.com/core](https://ubuntu.com/core)</li><li>[ubuntu.com/core/docs](https://ubuntu.com/core/docs)</li></ul>                                                                                                                  | <ul><li>Industrial controllers & gateways</li><li>Smart appliances, kiosks, edge computing</li><li>Robotics platforms</li></ul>                                                                    |
+| **Ubuntu on WSL**     | Windows 10/11 via Windows Subsystem for Linux                                | <ul><li>Ubuntu userspace inside Windows</li><li>Native command-line tools</li><li>Seamless file-system & networking integration</li></ul>                                                       | <ul><li>[ubuntu.com/wsl](https://ubuntu.com/wsl)</li><li>[documentation.ubuntu.com/wsl](https://documentation.ubuntu.com/wsl/en/stable/)</li></ul>                                                                                        | <ul><li>Software development on Windows with Linux toolchains</li><li>Cross-platform scripting & testing</li></ul>                                                                                 |
+| **Ubuntu Pro**        | Enterprise & regulated environments                                         | <ul><li>Extended Security Maintenance (10 years)</li><li>FIPS 140-2, CIS, DISA-STIG hardening</li><li>Kernel Livepatch and compliance tooling</li></ul>                                         | <ul><li>[ubuntu.com/pro](https://ubuntu.com/pro)</li><li>[documentation.ubuntu.com/pro](https://documentation.ubuntu.com/pro/)</li></ul>                                                                                                  | <ul><li>Finance, healthcare, government deployments</li><li>Long-term, secure production fleets</li></ul>                                                                                           |
+| **Real-time Ubuntu**  | Robotics, industrial automation, automotive, low-latency audio              | <ul><li>PREEMPT<sub>RT</sub> real-time kernel</li><li>Deterministic scheduling & µs-level latencies</li><li>Delivered as an Ubuntu Pro add-on</li></ul>                                         | <ul><li>[ubuntu.com/real-time](https://ubuntu.com/real-time)</li><li>[documentation.ubuntu.com/real-time](https://documentation.ubuntu.com/real-time/en/latest/)</li></ul>                                                                | <ul><li>Robot motion control</li><li>Factory PLC replacement</li><li>High-performance audio production</li><li>Medical devices</li></ul>                                                            |
 
-| platform  | OS      | uses                            | size    | docs                             |
-|-----------|---------|---------------------------------|---------|----------------------------------|
-| Desktop   | Linux   | use as your daily driver        | 5.9 GB  | [official docs for the Desktop environment](https://help.ubuntu.com/stable/ubuntu-help/index.html)        |
-| Server    | Linux   | create a private cloud          | 3.0 GB  | [official docs for Server](https://documentation.ubuntu.com/server/)         |
-| WSL       | Windows | develop with Ubuntu on Windows  | 357 MB  | [official Ubuntu on WSL docs](https://documentation.ubuntu.com/wsl/en/stable/)  |
-| ...       | ...     | ...                             | ...     | ...                              |
+### Notes
+
+- **Ubuntu Pro** is available on Desktop, Server, Cloud images and Ubuntu on WSL, providing [Extended Security Maintenance (ESM)](https://ubuntu.com/esm), Livepatch and automated compliance profiles (CIS, DISA-STIG, FIPS 140, Common Criteria).  
+- **Flavours**: Official [Ubuntu flavours](https://ubuntu.com/desktop/flavours) (Kubuntu, Xubuntu, Ubuntu MATE, Ubuntu Budgie, Ubuntu Studio, etc.) offer alternative desktop environments or specialist creative toolsets on the same Ubuntu base.
