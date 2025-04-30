@@ -11,3 +11,6 @@ dateCreated: 2025-04-01T09:07:39.303Z
 * [Ubuntu terminal command line reference](/ubuntu/cli-cheatsheet)
 * [Why Diataxis ensures quality in technical writing](/documentation/diataxis)
 * [How to dual-boot Ubuntu](/ubuntu/dual-boot)
+* [Ubuntu flavours](/ubuntu/flavours)
+
+* [Command-line file management tutorial](/general/manage-files-from-the-terminal)
