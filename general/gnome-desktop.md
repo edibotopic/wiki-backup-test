@@ -2,10 +2,10 @@
 title: GNOME
 description: Reference material for the GNOME desktop environment
 published: true
-date: 2025-04-28T08:32:12.825Z
-tags: reference gnome
+date: 2025-04-30T11:40:05.502Z
+tags: reference, gnome
 editor: markdown
-dateCreated: 2025-04-28T08:32:12.825Z
+dateCreated: 2025-04-30T11:36:30.590Z
 ---
 
 # GNOME
