@@ -2,23 +2,20 @@
 title: GNOME Terminal
 description: Reference material for GNOME Terminal
 published: true
-date: 2025-04-28T16:02:02.167Z
-tags: reference gnome-terminal
+date: 2025-05-10T08:28:22.033Z
+tags: reference
 editor: markdown
-dateCreated: 2025-04-28T16:02:02.167Z
+dateCreated: 2025-04-30T11:36:33.001Z
 ---
-
 
 # GNOME Terminal
 
-GNOME Terminal is the default [terminal emulator](/general/terminal-emulators) for the
-[GNOME desktop environment](/general/gnome-desktop).
+GNOME Terminal is the default [terminal emulator](/general/terminal-emulators) for the [GNOME desktop environment](/general/gnome-desktop).
 
 
 # Basic usage
 
-GNOME Terminal can be launched by running `gnome-terminal` from the command line or
-by pressing Ctrl+Alt+T on Ubuntu.
+GNOME Terminal can be launched by running `gnome-terminal` from the command line or by pressing Ctrl+Alt+T on Ubuntu.
 
 
 # Default shortcuts
