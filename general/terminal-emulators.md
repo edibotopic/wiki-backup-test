@@ -2,21 +2,17 @@
 title: Terminal emulators
 description: Explanatory material on terminal emulators
 published: true
-date: 2025-04-28T16:02:02.167Z
-tags: explanation terminal
+date: 2025-05-10T08:31:49.696Z
+tags: explanation, terminal
 editor: markdown
-dateCreated: 2025-04-28T16:02:02.167Z
+dateCreated: 2025-04-30T11:36:40.504Z
 ---
-
 
 # Terminal emulators
 
-A *terminal emulator* is an application that simulates a physical computer terminal.
-This enables users to interact with a machine through a text-based interface that they
-can give commands.
+A *terminal emulator* is an application that simulates a physical computer terminal. This enables users to interact with a machine through a text-based interface that they can give commands.
 
-Terminal emulators give users the ability to interact with their local machine or
-other machines via remote connections such as [SSH]().
+Terminal emulators give users the ability to interact with their local machine or other machines via remote connections such as [SSH]().
 
 
 ## Common terminal emulators
